@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Ansar | Builder of Curious Things
+# Abrar Ansari | Builder of Curious Things
 
 **Turning ideas into useful little worlds of code.**
 
